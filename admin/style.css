@@ -1,0 +1,11 @@
+#body{
+    background-color: grey;
+    margin: 0;
+}
+
+#adminpanel{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: #000000 0px 0px 10px, #000000 0px 0px 10px, 2px 2px 2px rgba(0,0,0,0);
+    color: white;
+    text-align: center;
+}
